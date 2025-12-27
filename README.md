@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mridulCSE98" width="120" alt="Profile Views of Mridul Kanti Kundu">
+    <img src="https://komarev.com/ghpvc/?username=HabibRahman05" width="120" alt="Profile Views of MD HABIBUR RAHMAN HABIB">
 </p>
 
 <p align="center">
